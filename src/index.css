@@ -1,0 +1,21 @@
+*{
+  padding:0;
+  margin:0;
+  box-sizing: border-box;
+}
+
+.content{
+  height:88vh;
+}
+
+.register-page{
+   display:flex; 
+   align-items: center;
+   justify-content: center;
+   height: 90vh;
+   flex-direction: column;
+}
+
+/* .navbar{
+  background-color: blue !important;
+} */
